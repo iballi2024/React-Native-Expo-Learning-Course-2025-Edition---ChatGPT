@@ -1,6 +1,4 @@
-# React-Native-Expo-Learning-Course-2025-Edition---ChatGPT
-
-## **React Native & Expo Learning Course (2025 Edition)**
+# React Native & Expo Learning Course (2025 Edition)
 
 This course is designed to take you from a complete beginner to an advanced React Native & Expo developer through a structured, hands-on learning path.
 
