@@ -170,3 +170,42 @@ Goal: **Build and deploy 3 mobile apps using Expo and React Native.**
 ---
 
 ✅ **Outcome:** By the end of this course, you’ll be able to confidently build, test, and deploy full-featured React Native apps using Expo.
+
+---
+
+## 📘 **React Native & Expo Study Plan Checklist**
+
+### **📅 Weekly Progress Tracker**
+
+| Week | Focus Area                               | Practice Completed | Assignment Done | Notes |
+| ---- | ---------------------------------------- | ------------------ | --------------- | ----- |
+| 1    | Getting Started with React Native & Expo | ☐                  | ☐               |       |
+| 2    | React Native Fundamentals                | ☐                  | ☐               |       |
+| 3    | Styling & Layout                         | ☐                  | ☐               |       |
+| 4    | Navigation & API Integration             | ☐                  | ☐               |       |
+| 5    | State Management & Authentication        | ☐                  | ☐               |       |
+| 6    | Advanced Concepts & Deployment           | ☐                  | ☐               |       |
+
+### **🧩 Project Checklist**
+
+| Project | Description                           | Completed |
+| ------- | ------------------------------------- | --------- |
+| 1       | HelloWorld App (Intro Project)        | ☐         |
+| 2       | To-Do App (React Native Fundamentals) | ☐         |
+| 3       | Profile Screen (Styling & Layout)     | ☐         |
+| 4       | News App (API Integration)            | ☐         |
+| 5       | Auth-based App (Firebase + Redux)     | ☐         |
+| 6       | Mini E-Commerce App (Final Project)   | ☐         |
+
+### **🎯 Learning Goals Checklist**
+
+* [ ] Master React Native fundamentals.
+* [ ] Learn and apply Redux Toolkit for state management.
+* [ ] Implement user authentication with Firebase.
+* [ ] Use Expo APIs for native device features.
+* [ ] Optimize app performance using Hermes.
+* [ ] Test and deploy apps to the Play Store and App Store.
+
+---
+
+🗓 **Tip:** Check off each section as you complete it to track your progress and stay motivated!
